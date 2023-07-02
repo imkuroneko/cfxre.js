@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.11.0",
+    "https": "^1.0.0",
+    "request-promise": "^4.2.6"
+  },
+  "name": "cfxre.status",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KuroNeko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imkuroneko/cfxre.js/issues"
+  },
+  "homepage": "https://github.com/imkuroneko/cfxre.js",
+  "description": ""
+}
