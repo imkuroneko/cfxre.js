@@ -31,6 +31,7 @@
 
 <h2 align="center">🧰 Como configurar</h2>
 <ul>
+  <li>Crear un bot <a href="https://discord.com/developers/applications">aquí</a>, tomar nota del Token y en <code>Privileged Gateway Intents</code> habilitar las 3 opciones; Recuerda deshabilita el parámetro de <code>Public Bot</code> para que nadie mas lo agregue a su servidor.</li>
   <li>Completar todos los parámetros requeridos en <code>config.js</code></li>
   <li>instalar todas las dependencias con <code>npm install</code></li>
   <li>en discord, ejecutar el comando <code>$slashregister</code> (esto se realiza una sola vez) para que se creen los comandos slash disponibles </li>
