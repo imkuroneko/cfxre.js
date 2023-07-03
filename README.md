@@ -3,7 +3,7 @@
 > Un pequeño bot para monitorear los servicios de cfx.re relacionados a FiveM
 
 <br>
-Reamde on english <a href="/readme_en.md">here</a>.
+Readme on english <a href="/readme_en.md">here</a>.
 
 <br><br>
 
